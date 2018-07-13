@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ann Arbor", "traffic": 27.200066281894479 }, "geometry": { "type": "Point", "coordinates": [ -83.693518, 42.293897 ] } },
+{ "type": "Feature", "properties": { "name": "Detroit", "traffic": 31.607405926183482 }, "geometry": { "type": "Point", "coordinates": [ -83.074495, 42.332832 ] } },
+{ "type": "Feature", "properties": { "name": "Toledo", "traffic": 44.235048359731756 }, "geometry": { "type": "Point", "coordinates": [ -83.60497, 41.684903 ] } },
+{ "type": "Feature", "properties": { "name": "Fort Wayne", "traffic": 43.948170768992483 }, "geometry": { "type": "Point", "coordinates": [ -85.108941, 41.116929 ] } },
+{ "type": "Feature", "properties": { "name": "Battle Creek", "traffic": 41.038972892784685 }, "geometry": { "type": "Point", "coordinates": [ -85.219148, 42.300233 ] } },
+{ "type": "Feature", "properties": { "name": "Lansing", "traffic": 30.988511011686199 }, "geometry": { "type": "Point", "coordinates": [ -84.559382, 42.704986 ] } }
+]
+}
